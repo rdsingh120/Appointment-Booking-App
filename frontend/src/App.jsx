@@ -1,6 +1,7 @@
-import "./app.css"
+import './app.css'
+import Layout from './layout/Layout'
 
 const App = () => {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>
+  return <Layout />
 }
 export default App
