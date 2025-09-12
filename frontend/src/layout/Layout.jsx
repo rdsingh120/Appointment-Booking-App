@@ -1,6 +1,6 @@
 import Footer from '../components/Footer/Footer'
 import Header from '../components/Header/Header'
-import Routes from '../routes/Routes'
+import Routes from '../routes/Routers'
 
 const Layout = () => {
   return (
