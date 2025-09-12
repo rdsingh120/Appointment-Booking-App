@@ -21,4 +21,4 @@ const Routers = () => {
     </Routes>
   )
 }
-export default Routes
+export default Routers
