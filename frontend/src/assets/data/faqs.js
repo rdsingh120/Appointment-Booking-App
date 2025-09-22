@@ -1,27 +1,27 @@
 export const faqs = [
   {
-    question: "What is your medical care?",
+    question: 'Do you accept OHIP card?',
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae rutrum odio. Sed aliquam molestie sem, semper consectetur ante porttitor quis. Quisque finibus hendrerit hendrerit. Praesent sit amet mollis arcu, ut ultrices ligula.',
   },
   {
-    question: "What happens if I need to go a hospital?",
+    question: 'What happens if I need to go a hospital?',
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae rutrum odio. Sed aliquam molestie sem, semper consectetur ante porttitor quis. Quisque finibus hendrerit hendrerit. Praesent sit amet mollis arcu, ut ultrices ligula.',
   },
   {
-    question: "What happens if I need to go a hospital?",
+    question: 'What are your timings?',
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae rutrum odio. Sed aliquam molestie sem, semper consectetur ante porttitor quis. Quisque finibus hendrerit hendrerit. Praesent sit amet mollis arcu, ut ultrices ligula.',
   },
   {
-    question: "Can I visit your medical office?",
+    question: 'Can I visit your office?',
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae rutrum odio. Sed aliquam molestie sem, semper consectetur ante porttitor quis. Quisque finibus hendrerit hendrerit. Praesent sit amet mollis arcu, ut ultrices ligula.',
   },
   {
-    question: "Does you provide urgent care?",
+    question: 'Do you provide emergency care?',
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae rutrum odio. Sed aliquam molestie sem, semper consectetur ante porttitor quis. Quisque finibus hendrerit hendrerit. Praesent sit amet mollis arcu, ut ultrices ligula.',
   },
-];
+]
