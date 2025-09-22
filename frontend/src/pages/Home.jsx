@@ -16,6 +16,7 @@ import About from '../components/About/About'
 import ServiceList from '../components/Services/ServiceList'
 import DoctorList from '../components/Doctors/DoctorList'
 import FaqList from '../components/Faq/FaqList'
+import Testimonial from '../components/Testimonials/Testimonial'
 
 const Home = () => {
   return (
@@ -283,13 +284,28 @@ const Home = () => {
               <img src={faqImg} alt="faq" />
             </div>
             <div className="w-full md:w-1/2">
-              <h2 className='heading'>Frequently Asked Questions</h2>
-              <FaqList/>
+              <h2 className="heading">Frequently Asked Questions</h2>
+              <FaqList />
             </div>
           </div>
         </div>
       </section>
       {/* FAQ Section Ends */}
+
+      {/* Testimonial Section Starts */}
+      <section>
+        <div className="container">
+          <div className="xl:w-[470px] mx-auto">
+            <h2 className="heading text-center">Ask our patients</h2>
+            <p className="text_para text-center">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
+              porro exercitationem quas dignissimos.
+            </p>
+          </div>
+          <Testimonial/>
+        </div>
+      </section>
+      {/* Testimonial Section Ends */}
     </>
   )
 }
